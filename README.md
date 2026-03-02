@@ -30,35 +30,3 @@ Professional, ready-to-launch gambling platform based on the highly optimized **
 
 ### 📈 SEO Keywords
 `Online Casino Script` `Gambling Software` `Goldsvet 6.5 Download` `PHP Casino Source Code` `HTML5 Gambling Games` `Cryptocurrency Casino Script` `White Label Casino` `Betting Script 2026`
-
----
-
-## 🇷🇺 Русская Версия
-
-### 🔥 Основные преимущества
-* **🔓 Полностью открытый код:** Без привязки к домену, без зашифрованных файлов. Вы получаете 100% контроль над продуктом.
-* **🎮 100+ Оригинальных HTML5 игр:** Все игры созданы с нуля. Никакого Flash. Идеальная работа на смартфонах и ПК.
-* **📱 Адаптивный дизайн:** Современный интерфейс, который летает на любых устройствах.
-* **💰 Любые платежные системы:** Возможность подключения любого эквайринга по API (Крипта, Карты, Электронные кошельки).
-* **🌍 Мультиязычность и Мультивалютность:** Работайте на любой рынок. Легкое добавление новых языков и валют.
-* **👥 Реферальная система:** Встроенная партнерская программа для автоматического масштабирования вашего бизнеса.
-* **🛠 Полная кастомизация:** Скрипт написан на базе Goldsvet 6.5, что позволяет дорабатывать любой функционал и менять дизайн под ключ.
-
-### ⚙️ Технические характеристики
-* **Движок:** Goldsvet 6.5 (Оптимизированный PHP)
-* **Игры:** 100+ встроенных слотов с настройкой отдачи (RTP) и логики.
-* **База данных:** MySQL (структура под высокие нагрузки).
-* **Провайдер:** Встроенный автономный провайдер игр (не требует сторонних подписок).
-
----
-
-## 📞 Contact Developer / Связь с разработчиком
-
-Ready to start your project? Contact **Profit Scripts Studio** for purchase or custom development:
-
-* **✈️ Telegram:** [@profitscripts](https://t.me/profitscripts)
-* **🌐 Website:** [profitscripts.cc](https://profitscripts.cc/)
-* **📢 Channel:** [@profitscripts_studio](https://t.me/profitscripts_studio)
-
----
-*Disclaimer: This software is for educational and demonstrational purposes. Ensure you comply with your local gambling laws.*
