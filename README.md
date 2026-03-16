@@ -10,7 +10,7 @@ Professional, ready-to-launch gambling platform based on the highly optimized **
 ![Ultimate Online Casino Engine | Goldsvet 6.5 Core](https://i.imgur.com/wl4BlbJ.png) 
 
 ---   
-  
+   
 ## 🇺🇸 English Version
 
 ### 🔥 Key Features
