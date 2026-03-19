@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Open_Source-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Available-brightgreen.svg?style=for-the-badge)
 
-Professional, ready-to-launch gambling platform based on the highly optimized **Goldsvet 6.5** core. This is a premium solution for building a high-traffic casino business with zero restrictions.
+Professional, ready-to-launch gambling platform based on the highly optimized **Goldsvet 6.5** core. This is a premium solution for building a high-traffic casino business with zero restrictions. 
 
 ![Ultimate Online Casino Engine | Goldsvet 6.5 Core](https://i.imgur.com/wl4BlbJ.png) 
 
