@@ -73,6 +73,24 @@ This guide helps you deploy the Goldsvet engine on your server in a few simple s
 
 ## 💬 Support and Official Links
 For technical support, custom development, or branding services, visit our official laboratory:
+
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q: Is Goldsvet 6.5 Core really Open Source?**
+A: Yes, our version of **Goldsvet 6.5** is 100% open source. There are no domain limits, no IonCube encryption, and no hidden callbacks. You get the full **Source Code** for lifetime use.
+
+**Q: Does this script include HTML5 games?**
+A: Absolutely. The package includes over 100+ high-quality **HTML5 Gambling Games**. They are fully responsive and work perfectly on all mobile devices and desktops.
+
+**Q: Can I integrate Crypto Payments like USDT or TON?**
+A: Yes, the engine supports **Universal Payment Integration**. You can connect any crypto gateway via API, including BTC, ETH, USDT (TRC20), and TON Connect.
+
+**Q: How to prevent Malware when downloading Goldsvet?**
+A: Always use the **Official ProfitScripts Repository**. Clones and "nulled" versions from untrusted sources often contain backdoors. Our code is clean and verified for **Secure Deployment**.
+
+**Q: Do you provide Technical Support and Branding?**
+A: Yes, ProfitScripts Studio offers **Extended Support**, custom branding, and server setup for your **Online Casino Business**. Visit our website for more details.
 🌐 **Website:** [https://profitscripts.asia](https://profitscripts.asia)
 📢 **Telegram:** [@YourTelegramLink]
 
