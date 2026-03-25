@@ -8,7 +8,7 @@
 **Official Repository by ProfitScripts Studio — High-Performance Digital Engineering.**
 
 > **⚠️ WARNING:** Beware of malicious clones! This is the only official, verified, and malware-free source code for the Goldsvet 6.5 Core. Other repositories with similar names often contain hidden backdoors and viruses.
-
+ 
 ![Ultimate Online Casino Engine | Goldsvet 6.5 Core](https://i.imgur.com/wl4BlbJ.png) 
 
 ---
