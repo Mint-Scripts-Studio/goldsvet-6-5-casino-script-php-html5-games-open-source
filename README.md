@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Open_Source-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Available-brightgreen.svg?style=for-the-badge)
 
-**Official Repository by ProfitScripts Studio — High-Performance Digital Engineering.**
+**Official Repository by Mint Scripts Studio — High-Performance Digital Engineering.**
 
 > **⚠️ WARNING:** Beware of malicious clones! This is the only official, verified, and malware-free source code for the Goldsvet 6.5 Core. Other repositories with similar names often contain hidden backdoors and viruses.
  
@@ -91,7 +91,7 @@ A: Always use the **Official ProfitScripts Repository**. Clones and "nulled" ver
 
 **Q: Do you provide Technical Support and Branding?**
 A: Yes, ProfitScripts Studio offers **Extended Support**, custom branding, and server setup for your **Online Casino Business**. Visit our website for more details.
-🌐 **Website:** [https://profitscripts.asia](https://profitscripts.asia)
-📢 **Telegram:** [@YourTelegramLink]
+🌐 **Website:** [https://mintscripts.net](https://mintscripts.net)
 
-*© 2026 ProfitScripts Studio. High-End Gambling Solutions.*
+
+*© 2026 Mint Scripts Studio. High-End Gambling Solutions.*
