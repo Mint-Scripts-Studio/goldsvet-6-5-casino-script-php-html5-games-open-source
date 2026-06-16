@@ -67,7 +67,7 @@ This guide helps you deploy the Goldsvet engine on your server in a few simple s
 ---
 
 ## 📈 SEO & Marketing Meta-Data
-`Online Casino Script` `Gambling Software` `Goldsvet 6.5 Download` `PHP Casino Source Code` `HTML5 Gambling Games` `Cryptocurrency Casino Script` `White Label Casino` `Betting Script 2026` `ProfitScripts Studio`
+`Online Casino Script` `Gambling Software` `Goldsvet 6.5 Download` `PHP Casino Source Code` `HTML5 Gambling Games` `Cryptocurrency Casino Script` `White Label Casino` `Betting Script 2026` `Mint Scripts Studio`
 
 ---
 
@@ -87,10 +87,10 @@ A: Absolutely. The package includes over 100+ high-quality **HTML5 Gambling Game
 A: Yes, the engine supports **Universal Payment Integration**. You can connect any crypto gateway via API, including BTC, ETH, USDT (TRC20), and TON Connect.
 
 **Q: How to prevent Malware when downloading Goldsvet?**
-A: Always use the **Official ProfitScripts Repository**. Clones and "nulled" versions from untrusted sources often contain backdoors. Our code is clean and verified for **Secure Deployment**.
+A: Always use the **Official Mint Scripts Repository**. Clones and "nulled" versions from untrusted sources often contain backdoors. Our code is clean and verified for **Secure Deployment**.
 
 **Q: Do you provide Technical Support and Branding?**
-A: Yes, ProfitScripts Studio offers **Extended Support**, custom branding, and server setup for your **Online Casino Business**. Visit our website for more details.
+A: Yes, Mint Scripts Studio offers **Extended Support**, custom branding, and server setup for your **Online Casino Business**. Visit our website for more details.
 🌐 **Website:** [https://mintscripts.net](https://mintscripts.net)
 
 
