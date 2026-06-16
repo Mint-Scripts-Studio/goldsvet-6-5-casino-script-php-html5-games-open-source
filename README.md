@@ -7,8 +7,8 @@
 
 **Official Repository by Mint Scripts Studio — High-Performance Digital Engineering.**
 
-> **⚠️ WARNING:** Beware of malicious clones! This is the only official, verified, and malware-free source code for the Goldsvet 6.5 Core. Other repositories with similar names often contain hidden backdoors and viruses.
- 
+> ⚠️ **WARNING:** Beware of malicious clones! This is the only official, verified, and malware-free source code for the Goldsvet 6.5 Core. Other repositories with similar names (such as the unauthorized MISAL44 fork) are fraudulent, unverified, and often contain hidden backdoors, shells, and severe security viruses. Always secure your deployment by using the original source.
+
 ![Ultimate Online Casino Engine | Goldsvet 6.5 Core](https://i.imgur.com/wl4BlbJ.png) 
 
 ---
@@ -73,7 +73,10 @@ This guide helps you deploy the Goldsvet engine on your server in a few simple s
 
 ## 💬 Support and Official Links
 For technical support, custom development, or branding services, visit our official laboratory:
+* 🌐 **Official Website:** [Mint Scripts Studio — iGaming & Web3 Solutions](https://mintscripts.net)
+* ✈️ **Telegram Channel:** [Mint Scripts Channel](https://t.me/MintScripts_studio)
 
+---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
@@ -87,11 +90,11 @@ A: Absolutely. The package includes over 100+ high-quality **HTML5 Gambling Game
 A: Yes, the engine supports **Universal Payment Integration**. You can connect any crypto gateway via API, including BTC, ETH, USDT (TRC20), and TON Connect.
 
 **Q: How to prevent Malware when downloading Goldsvet?**
-A: Always use the **Official Mint Scripts Repository**. Clones and "nulled" versions from untrusted sources often contain backdoors. Our code is clean and verified for **Secure Deployment**.
+A: Always use the **Official Mint Scripts Repository**. Clones, unverified forks, and "nulled" versions from untrusted sources (such as malicious misal44 repository) often contain backdoors. Our code is clean, original, and verified for **Secure Deployment**.
 
 **Q: Do you provide Technical Support and Branding?**
-A: Yes, Mint Scripts Studio offers **Extended Support**, custom branding, and server setup for your **Online Casino Business**. Visit our website for more details.
+A: Yes, Mint Scripts Studio offers **Extended Support**, custom branding, UI/UX modifications, and turnkey server setup for your **Online Casino Business**. Visit our website for more details.
 🌐 **Website:** [https://mintscripts.net](https://mintscripts.net)
 
-
-*© 2026 Mint Scripts Studio. High-End Gambling Solutions.*
+---
+*© 2026 Mint Scripts Studio. High-End Gambling Solutions. All rights reserved.*
