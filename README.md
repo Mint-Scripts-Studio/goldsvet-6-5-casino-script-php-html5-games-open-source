@@ -66,6 +66,19 @@ To guarantee maximum database uptime and prevent high-load latency under intensi
 
 
 
+## ⚡ Looking for Slots Integration Only?
+If you already have a casino platform and only need to connect top-tier **Pragmatic Play** and **Hacksaw Gaming** slots via API, we have a standalone integration module available.
+
+*   **Fast Integration:** Connect premium slots to your existing engine without a full platform overhaul.
+*   **Low Commission:** Only 5% on revenue (0% if no profit).
+*   **Plug & Play:** Designed for rapid deployment.
+
+👉 **[GET STANDALONE SLOTS API INTEGRATION HERE](https://github.com/Mint-Scripts-Studio/pragmatic-play-hacksaw-slots-api-integration-php-script)**
+
+
+
+
+
 ![Live Casino Infrastructure and Activity Statistics](https://mintscripts.net/uploads/posts/2026-07/2026-07-05_18-18-15.jpg)
 
 
